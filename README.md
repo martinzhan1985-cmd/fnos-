@@ -18,4 +18,4 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 
 #### 1.fnos远程登陆
 
-外网访问地址[[https://fn.martinzhan.top:4680]()
+外网访问地址[https://fn.martinzhan.top:4680]()
