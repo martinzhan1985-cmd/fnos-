@@ -52,7 +52,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 #### 8.fnos系统 ezbookkeeping远程登陆
 
 外网访问地址: [https://ezbookkeeping.martinzhan.top:4687]()  \
-使用邮箱可以登录：zhanminjie1985@gmail.com
+使用邮箱可以登录：zhanminjie1985 @gmail.com
 
 
 #### 9.fnos系统 pansou远程登陆
