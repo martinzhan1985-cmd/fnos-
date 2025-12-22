@@ -73,7 +73,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 
 
 
-## Github基本写入和格式设置语法
+## Github写入和格式设置语法
 
 https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings
 
