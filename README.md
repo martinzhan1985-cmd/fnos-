@@ -14,8 +14,79 @@
 
 ### 3.域名+IPV6+lucky方向代理
 
-lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二级域名远程登陆(必须添加https://)，此方式远程登陆不存在链接不安全告警,无法使用fnos手机APP登陆。
+lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二级域名远程登陆(必须添加https://)，此方式远程登陆不存在链接不安全告警,无法使用fnos手机APP登陆，重点是需要不定时更新SSL证书。
 
-#### 1.fnos远程登陆
+#### 1.fnos系统远程登陆
 
 外网访问地址: [https://fn.martinzhan.top:4680]()
+
+#### 2.fnos系统 lucky远程登陆
+
+外网访问地址: [https://lucky.martinzhan.top:4681]()
+
+#### 3.fnos系统 iStoreOS远程登陆
+
+外网访问地址: [https://iStoreOS.martinzhan.top:4682]()
+
+#### 4.fnos系统 jellyfin远程登陆
+
+外网访问地址: [https://Jellyfin.martinzhan.top:4683]()  账号密码登陆无效，快速连接验证码方式可以，需查看帮助文档。
+
+#### 5.fnos系统 Navidrome远程登陆
+
+外网访问地址: [https://Navidrome.martinzhan.top:4684]()
+
+
+#### 6.fnos系统 audiobookshelf远程登陆
+
+外网访问地址: [https://audiobookshelf.martinzhan.top:4685]()
+
+
+#### 7.fnos系统 calibre远程登陆
+
+外网访问地址: [https://calibre.martinzhan.top:4686]()    admin/admin123
+
+
+#### 8.fnos系统 ezbookkeeping远程登陆
+
+外网访问地址: [https://ezbookkeeping.martinzhan.top:4687]()  使用邮箱可以登录：zhanminjie1985@gmail.com
+
+
+#### 3.fnos系统远程登陆
+
+外网访问地址: []()
+
+
+#### 3.fnos系统远程登陆
+
+外网访问地址: []()
+
+
+#### 3.fnos系统远程登陆
+
+外网访问地址: []()
+
+
+#### 3.fnos系统远程登陆
+
+外网访问地址: []()
+
+
+
+
+
+
+
+
+
+
+
+
+
+文档编辑参考文档
+https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs
+
+
+
+
+
