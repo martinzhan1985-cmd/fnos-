@@ -10,4 +10,4 @@
 ### 2.域名+IPV6
 
 获取fnos系统IPV6公网地址，阿里云购买域名，域名解析控制台将域名绑定fnos系统IPV6公网地址进行解析。使用fnos手机APP/浏览器远程登陆。
-[注册域名](martinzhan.top)
+[martinzhan.top]()
