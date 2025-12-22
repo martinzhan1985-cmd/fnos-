@@ -46,7 +46,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 #### 7.fnos系统 calibre远程登陆
 
 外网访问地址: [https://calibre.martinzhan.top:4686]()    \
-账号密码：admin/admin123
+登陆账号：admin/admin123
 
 
 #### 8.fnos系统 ezbookkeeping远程登陆
@@ -63,13 +63,13 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 #### 10.fnos系统 mailbox远程登陆
 
 外网访问地址: [https://mailbox.martinzhan.top:4689]()   \
-账号：admin
+登陆账号：admin
 
 
 #### 11.fnos系统 FreshRSS远程登陆
 
 外网访问地址: [https://FreshRSS.martinzhan.top:4690]()   \
-账号：admin
+登陆账号：admin
 
 
 
