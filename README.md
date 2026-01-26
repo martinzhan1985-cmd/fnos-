@@ -71,6 +71,9 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 外网访问地址: [https://FreshRSS.martinzhan.top:4690]()   \
 登陆账号：admin
 
+#### 12.fnos系统 植物大战僵尸远程登陆
+
+外网访问地址: [https://zwdzjs.martinzhan.top:4691]()   \
 
 
 ## Github写入和格式设置语法
