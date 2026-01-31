@@ -30,8 +30,8 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 
 #### 4.fnos系统 jellyfin远程登陆
 
-外网访问地址: [https://Jellyfin.martinzhan.top:4683]()  \
-账号密码登陆无效，快速连接验证码方式可以，需查看帮助文档。
+外网访问地址: [https://Jellyfin.martinzhan.top:4683]()  
+
 
 #### 5.fnos系统 Navidrome远程登陆
 
