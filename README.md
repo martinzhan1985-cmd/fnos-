@@ -35,7 +35,8 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 
 #### 5.fnos系统 Navidrome远程登陆
 
-外网访问地址: [https://Navidrome.martinzhan.top:4684]()
+外网访问地址: [https://Navidrome.martinzhan.top:4684]()   \
+外网访问地址2: [https://navidrome.zhanminjie.ccwu.cc:5684]()
 
 
 #### 6.fnos系统 audiobookshelf远程登陆
