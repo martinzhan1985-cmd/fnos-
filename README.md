@@ -87,6 +87,24 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 外网访问地址2: [https://zwdzjs.zhanminjie.ccwu.cc:5691]()
 
 
+#### 13.fnos系统 NewsNow远程登陆
+
+外网访问地址:[https://alist.zhanminjie.ccwu.cc:5692]()
+
+
+
+#### 14.fnos系统 NewsNow远程登陆
+
+外网访问地址:[https://openlist.zhanminjie.ccwu.cc:5693]()
+
+
+
+
+#### 15.fnos系统 NewsNow远程登陆
+
+外网访问地址:[https://newsnow.zhanminjie.ccwu.cc:5694]()
+
+
 
 
 ## Github写入和格式设置语法
