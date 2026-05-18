@@ -105,6 +105,13 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 外网访问地址:[https://newsnow.zhanminjie.ccwu.cc:5694]()
 
 
+#### 16.fnos系统 Emby Server远程登陆
+
+外网访问地址: [emby.martinzhan.top:4692]() \
+
+
+
+
 
 
 ## Github写入和格式设置语法
