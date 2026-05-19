@@ -115,7 +115,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 外网访问地址: [https://1panel.martinzhan.top:4694/zhanminjie]() \
 账号：zhanminjie   \
 密码：qq88699****  \
-已开启谷歌二次验证  \
+已开启谷歌二次验证  
 
 
 
