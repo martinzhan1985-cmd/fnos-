@@ -123,7 +123,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 
 外网访问地址: [https://vaultwarden.martinzhan.top:4693]() \
 账号：zhanminjie   \
-密码：zmj****qq886****85HZ \
+密码：@zmj*/*/*/*/qq886/*/*/*/*85HZ \
 提示词：zhanminjie    \
 邮箱：435271761@qq.com
 
