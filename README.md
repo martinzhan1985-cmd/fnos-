@@ -121,7 +121,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 
 #### 17.fnos系统 vaultwarden远程登陆
 
-外网访问地址: [https://vaultwarden.martinzhan.top:24693]() \
+外网访问地址: [https://vaultwarden.martinzhan.top:4693]() \
 账号：zhanminjie   \
 密码：zmj****qq886****85HZ \
 提示词：zhanminjie    \
