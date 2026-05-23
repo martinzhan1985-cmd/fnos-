@@ -110,13 +110,6 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 外网访问地址: [emby.martinzhan.top:4692]() 
 
 
-#### 16.fnos系统 Emby Server远程登陆
-
-外网访问地址: [https://1panel.martinzhan.top:4694/zhanminjie]() \
-账号：zhanminjie   \
-密码：qq88699****  \
-已开启谷歌二次验证  
-
 
 
 #### 17.fnos系统 vaultwarden远程登陆
@@ -126,6 +119,17 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 密码：@zmj/*/*/*/qq886/*/*/*/85HZ \
 提示词：zhanminjie    \
 邮箱：435271761@qq.com
+
+
+#### 18.fnos系统 Emby Server远程登陆
+
+外网访问地址: [https://1panel.martinzhan.top:4694/zhanminjie]() \
+账号：zhanminjie   \
+密码：qq88699****  \
+已开启谷歌二次验证  
+
+
+
 
 
 
