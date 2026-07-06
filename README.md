@@ -133,7 +133,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 
 外网访问地址: [https://homeassistant.martinzhan.top:4695]() \
 账号：zhanminjie   \
-密码：qq88699****  \
+密码：qq88699****  
 
 
 ## Github写入和格式设置语法
