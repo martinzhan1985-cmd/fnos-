@@ -131,7 +131,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 
 #### 19.fnos系统  homeassistant 远程登陆
 
-外网访问地址: []() \
+外网访问地址: [http://hs.martinzhan.top:4695]() \
 账号：zhanminjie   \
 密码：qq88699****  
 
