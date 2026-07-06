@@ -121,7 +121,7 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 邮箱：435271761@qq.com
 
 
-#### 18.fnos系统 Emby Server远程登陆
+#### 18.fnos系统 1panel 远程登陆
 
 外网访问地址: [https://1panel.martinzhan.top:4694/zhanminjie]() \
 账号：zhanminjie   \
@@ -129,8 +129,11 @@ lucky软件添加WEB访问规则，路由器添加端口映射规则，使用二
 已开启谷歌二次验证  
 
 
+#### 19.fnos系统  homeassistant 远程登陆
 
-
+外网访问地址: [https://homeassistant.martinzhan.top:4695]() \
+账号：zhanminjie   \
+密码：qq88699****  \
 
 
 ## Github写入和格式设置语法
